@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/heenarefai/Documents/code/mlops-v2-workshop/notebooks/mlruns/775451619847611530/a4f3a432bc5e446ead3e082fdebe48e1/artifacts
+end_time: 1751975549563
+entry_point_name: ''
+experiment_id: '775451619847611530'
+lifecycle_stage: active
+run_id: a4f3a432bc5e446ead3e082fdebe48e1
+run_name: prep-nyc
+run_uuid: a4f3a432bc5e446ead3e082fdebe48e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751975549369
+status: 3
+tags: []
+user_id: heenarefai
