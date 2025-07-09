@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/heenarefai/Documents/code/mlops-v2-workshop/notebooks/mlruns/775451619847611530/f3f7c14a043349d3876a473058bb82cc/artifacts
+end_time: 1751975959375
+entry_point_name: ''
+experiment_id: '775451619847611530'
+lifecycle_stage: active
+run_id: f3f7c14a043349d3876a473058bb82cc
+run_name: train-nyc
+run_uuid: f3f7c14a043349d3876a473058bb82cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751975937545
+status: 3
+tags: []
+user_id: heenarefai
